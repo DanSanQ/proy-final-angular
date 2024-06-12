@@ -1,0 +1,15 @@
+*{
+    font-family: 'VT323', monospace;
+}
+
+h3, h4{
+    color: white;
+}
+
+h3:hover{
+    color: aqua;
+}
+
+h4:hover{
+    color: aqua;
+}
